@@ -16,7 +16,7 @@
     "timeMonth": 766,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -129,7 +129,7 @@
     "timeMonth": 750,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -242,7 +242,7 @@
     "timeMonth": 922,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -355,7 +355,7 @@
     "timeMonth": 801,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -468,7 +468,7 @@
     "timeMonth": 765,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -599,7 +599,7 @@
     "timeMonth": 1263,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -700,18 +700,20 @@
     "url": "https://grp-backoffice.haa477.com",
     "icon": "https://icons.duckduckgo.com/ip3/grp-backoffice.haa477.com.ico",
     "slug": "backoffice-http-grp-backoffice-haa477-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1030,
     "timeDay": 1015,
     "timeWeek": 1031,
     "timeMonth": 995,
     "timeYear": 1030,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 7
+    }
   },
   {
     "name": "Backoffice_HTTP_hera.all5555.com",
@@ -719,18 +721,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hera.all5555.com.ico",
     "slug": "backoffice-http-hera-all5555-com",
     "status": "down",
-    "uptime": "61.43%",
+    "uptime": "60.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.43%",
+    "uptimeYear": "60.96%",
     "time": 810,
     "timeDay": 761,
     "timeWeek": 711,
     "timeMonth": 660,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -804,7 +806,7 @@
     "timeMonth": 351,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -917,7 +919,7 @@
     "timeMonth": 243,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1036,10 +1038,10 @@
     "url": "https://grp-portal.haa477.com",
     "icon": "https://icons.duckduckgo.com/ip3/grp-portal.haa477.com.ico",
     "slug": "frontend-http-grp-portal-haa477-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1008,
@@ -1047,7 +1049,9 @@
     "timeWeek": 1024,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 2
+    }
   },
   {
     "name": "Frontend_HTTP_live2.673ing.com",
@@ -1066,7 +1070,7 @@
     "timeMonth": 603,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1179,7 +1183,7 @@
     "timeMonth": 946,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1292,7 +1296,7 @@
     "timeMonth": 288,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1405,7 +1409,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1203,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1518,7 +1522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1204,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1631,7 +1635,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 159,
+      "2026-07-25": 1204,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1744,7 +1748,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 160,
+      "2026-07-25": 1204,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
